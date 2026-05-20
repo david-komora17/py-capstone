@@ -4,7 +4,7 @@ A Python-based Desktop application designed to manage electronics inventory with
 
 ##  Features
 - **CRUD Operations**: Add, View, and Delete electronics products.
-- **AI-Powered Catalog**: Automatically generates technical descriptions for products using Google Gemini AI.
+- **AI-Powered Catalog**: Automatically generates technical descriptions for products using llama AI model.
 - **Intelligent Assistant**: A built-in chatbot that can answer questions about stock levels, pricing, and product specs by "scraping" the MongoDB data.
 - **Cloud Database**: Fully integrated with MongoDB Atlas for real-time data persistence.
 
